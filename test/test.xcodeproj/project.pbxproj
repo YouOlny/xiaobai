@@ -17,6 +17,8 @@
 		3B9B803B1F1F38ED000B17F3 /* testUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B9B803A1F1F38ED000B17F3 /* testUITests.m */; };
 		3B9B804B1F1F464C000B17F3 /* testController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B9B80491F1F464C000B17F3 /* testController.m */; };
 		3B9B804C1F1F464C000B17F3 /* testController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B9B804A1F1F464C000B17F3 /* testController.xib */; };
+		3B9B80501F1F4954000B17F3 /* test2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B9B804E1F1F4954000B17F3 /* test2ViewController.m */; };
+		3B9B80511F1F4954000B17F3 /* test2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B9B804F1F1F4954000B17F3 /* test2ViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +58,9 @@
 		3B9B80481F1F464C000B17F3 /* testController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testController.h; sourceTree = "<group>"; };
 		3B9B80491F1F464C000B17F3 /* testController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testController.m; sourceTree = "<group>"; };
 		3B9B804A1F1F464C000B17F3 /* testController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = testController.xib; sourceTree = "<group>"; };
+		3B9B804D1F1F4954000B17F3 /* test2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test2ViewController.h; sourceTree = "<group>"; };
+		3B9B804E1F1F4954000B17F3 /* test2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test2ViewController.m; sourceTree = "<group>"; };
+		3B9B804F1F1F4954000B17F3 /* test2ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = test2ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +117,9 @@
 				3B9B801C1F1F38ED000B17F3 /* ViewController.m */,
 				3B9B80481F1F464C000B17F3 /* testController.h */,
 				3B9B80491F1F464C000B17F3 /* testController.m */,
+				3B9B804D1F1F4954000B17F3 /* test2ViewController.h */,
+				3B9B804E1F1F4954000B17F3 /* test2ViewController.m */,
+				3B9B804F1F1F4954000B17F3 /* test2ViewController.xib */,
 				3B9B804A1F1F464C000B17F3 /* testController.xib */,
 				3B9B801E1F1F38ED000B17F3 /* Main.storyboard */,
 				3B9B80211F1F38ED000B17F3 /* Assets.xcassets */,
@@ -258,6 +266,7 @@
 				3B9B80251F1F38ED000B17F3 /* LaunchScreen.storyboard in Resources */,
 				3B9B80221F1F38ED000B17F3 /* Assets.xcassets in Resources */,
 				3B9B80201F1F38ED000B17F3 /* Main.storyboard in Resources */,
+				3B9B80511F1F4954000B17F3 /* test2ViewController.xib in Resources */,
 				3B9B804C1F1F464C000B17F3 /* testController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -285,6 +294,7 @@
 			files = (
 				3B9B801D1F1F38ED000B17F3 /* ViewController.m in Sources */,
 				3B9B801A1F1F38ED000B17F3 /* AppDelegate.m in Sources */,
+				3B9B80501F1F4954000B17F3 /* test2ViewController.m in Sources */,
 				3B9B80171F1F38ED000B17F3 /* main.m in Sources */,
 				3B9B804B1F1F464C000B17F3 /* testController.m in Sources */,
 			);
